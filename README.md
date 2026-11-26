@@ -55,4 +55,8 @@ The Lost and Found Portal is a smart and helpful platform that makes it easier t
 
 ---
 
+<<<<<<< HEAD
 Developed as a Python Web Development Project.
+=======
+Developed as a Python Web Development Project.
+>>>>>>> 6c9085bda549c303ab9f42c26ae2970973654164
